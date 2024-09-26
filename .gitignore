@@ -1,0 +1,7 @@
+data/person1
+.venv/
+coco.names
+yolov3.cfg
+yolov3.weights
+yolov8s.pt
+Attendance.csv
